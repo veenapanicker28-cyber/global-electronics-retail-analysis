@@ -50,3 +50,18 @@ The Power BI report (`.pbix`) and dashboard screenshots will be included in this
 
 ## About
 This is a portfolio project demonstrating data preparation, data modelling, DAX calculations, and business intelligence reporting using Power BI.
+
+
+## Dashboard Screenshots
+
+### 1. Quantity Analysis
+![Quantity Analysis](quantity-analysis.png.png)
+
+### 2. Sales Performance
+![Sales Performance](sales-performance.png.png)
+
+### 3. Product & Customer Insights
+![Product and Customer Insights](product-customer-insights.png.png)
+
+### 4. Store & Operations
+![Store and Operations](store-operations.png.png)
