@@ -64,4 +64,4 @@ This is a portfolio project demonstrating data preparation, data modelling, DAX 
 ![Product and Customer Insights](product-customer-insights.png.png)
 
 ### 4. Store & Operations
-![Store and Operations](-%20store-operations.png.png)
+![Store & Operations](store-operations.png.png)
